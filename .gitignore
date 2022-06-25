@@ -1,0 +1,5 @@
+.env
+venv/
+wk4_flask_training/venv
+/resource
+__pycache__
